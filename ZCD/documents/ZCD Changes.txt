@@ -1,0 +1,7 @@
+zero crossoing changes
+I was change the 15k ohm resistor to series in 7k ohm resistor.
+ESP32-H2-MINI-1-H2 replaced by ESP32-PICO-D4 Because esp32 mini 61pins. 
+so I have use small number pins only so I have choose 48 GPIO ESP32 PICO D4 
+230v supply female interface.checking purpose.
+MOC3021 Triac Drive input resistor connected to sereies and voltage divider formula using because triac  operating voltage
+1.5 reduse purpose.s

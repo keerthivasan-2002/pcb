@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ae412263-4fba-4015-b926-1761dded04f5")
+	(paper "A4")
+	(title_block
+		(title "Dimmer")
+		(rev "0.1")
+		(company "Gemicates Technologies Pvt Ltd,IITM Pravartak,IIT Madras Research Park,Chennai - 600113")
+	)
+	(lib_symbols)
+)

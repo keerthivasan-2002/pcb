@@ -1,0 +1,208 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1d8e9714-15c6-4c13-86dc-71d462427ca7")
+	(paper "A4")
+	(title_block
+		(title "Dimmer")
+		(rev "0.1")
+		(company "Gemicates Technologies Pvt Ltd,IITM Pravartak,IIT Madras Research Park,Chennai - 600113")
+	)
+	(lib_symbols)
+	(sheet
+		(at 65.405 19.05)
+		(size 40.64 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "198f7aad-94c4-4f4a-8d9c-70f34a414ef4")
+		(property "Sheetname" "DC to DC "
+			(at 65.405 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dc to dc converter module.kicad_sch"
+			(at 65.405 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZCD"
+				(path "/1d8e9714-15c6-4c13-86dc-71d462427ca7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.955 18.415)
+		(size 40.64 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a558217-802e-4cb4-81d3-88689912e2cd")
+		(property "Sheetname" "AC to Dc converter"
+			(at 20.955 17.7034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ac to dc convertermodule.kicad_sch"
+			(at 20.955 52.0196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZCD"
+				(path "/1d8e9714-15c6-4c13-86dc-71d462427ca7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 19.05)
+		(size 40.64 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cf24145-2d03-4801-9bc2-4cdc1f3c781c")
+		(property "Sheetname" "MCU ESP32"
+			(at 109.22 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mucesp32 module.kicad_sch"
+			(at 109.22 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZCD"
+				(path "/1d8e9714-15c6-4c13-86dc-71d462427ca7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 20.955)
+		(size 40.64 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a9c528fb-ad5f-4af4-9b3a-dbe49265101c")
+		(property "Sheetname" "Revision histroy"
+			(at 163.83 20.2434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "revisionhistroy.kicad_sch"
+			(at 163.83 54.5596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZCD"
+				(path "/1d8e9714-15c6-4c13-86dc-71d462427ca7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 67.31)
+		(size 40.64 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d0b88952-eed8-4f12-9971-a7bf9be5b70c")
+		(property "Sheetname" "Blockdiagram"
+			(at 22.86 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "blockdiagram.kicad_sch"
+			(at 22.86 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZCD"
+				(path "/1d8e9714-15c6-4c13-86dc-71d462427ca7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
